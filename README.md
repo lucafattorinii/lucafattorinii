@@ -8,9 +8,10 @@
 ## Sobre mí
 
 - 🎓 Estudiante de Licenciatura en Sistemas en la Universidad Nacional de Lanús
-- 📊 Aficionado a la ciencia de datos
 - 🖥️ Entusiasta de la programación
-- 🌱 Apasionado por la tecnología y el desarrollo de software
+- 📫 Cómo contactarme: fattouzuki@gmail.com
+- 💬 Pregúntame acerca de programación en Java y Python.
+- ⚡ Dato curioso: Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos innovadores.
 
 ## Proyectos Destacados
 
@@ -31,18 +32,15 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Proyecto 2</h3>
+<h3 align="center">Proyecto Ajedrez</h3>
 <div align="center">
-<a href="https://github.com/tu-usuario/proyecto-2" target="_blank"><img src="https://ruta-a-la-imagen.jpg" width="400" alt="Descripción del proyecto 2"></a>
+<a href="https://github.com/lucafattorinii/Ajedrez" target="_blank"><img src="https://github.com/lucafattorinii/lucafattorinii/blob/main/ajedrezimg.png?raw=true" width="400" alt="Descripción del proyecto 2"></a>
 <p>
-<a href="https://github.com/tu-usuario/proyecto-2" target="_blank">
+<a href="https://github.com/lucafattorinii/Ajedrez" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/enlace-al-video" target="_blank">
-<img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Descripción breve del proyecto y sus tecnologías utilizadas.</p>
+<p>Este proyecto es una implementación simple del juego de ajedrez en Java.</p>
 </div>
 </td>
 </tr>
