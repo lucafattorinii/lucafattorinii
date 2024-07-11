@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Luca Fattorini 👋</h1>
 </div>
-<img src="https://tu-imagen.png">
+<img src="https://github.com/lucafattorinii/lucafattorinii/blob/main/imagen.png?raw=true">
 
 [![GitHub followers](https://img.shields.io/github/followers/lucafattorinii?style=social)](https://github.com/lucafattorinii)
 
