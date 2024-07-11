@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Proyecto Pong</h3>
 <div align="center">
-<a href="https://github.com/lucafattorinii/Pong" target="_blank"><img src="https://ruta-a-la-imagen.jpg" width="400" alt="Descripción del proyecto 1"></a>
+<a href="https://github.com/lucafattorinii/Pong" target="_blank"><img src="https://github.com/lucafattorinii/lucafattorinii/blob/main/pongimg.png?raw=true" width="400" alt="Descripción del proyecto 1"></a>
 <p>
 <a href="https://github.com/lucafattorinii/Pong" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
