@@ -7,7 +7,6 @@
 
 ## Sobre mí
 
-- 🎓 Estudiante de Licenciatura en Sistemas en la Universidad Nacional de Lanús
 - 🖥️ Entusiasta de la programación
 - 📫 Cómo contactarme: fattouzuki@gmail.com
 - 💬 Pregúntame acerca de programación en Java y Python.
