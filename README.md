@@ -8,7 +8,7 @@
 ## Sobre mí
 
 - 🖥️ Entusiasta de la programación
-- 📫 Cómo contactarme: fattouzuki@gmail.com
+- 📫 Cómo contactarme: lucafattorini.dev@gmail.com
 - 💬 Pregúntame acerca de programación en Java y Python.
 - ⚡ Dato curioso: Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos innovadores.
 
